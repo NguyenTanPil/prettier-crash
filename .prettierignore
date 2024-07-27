@@ -1,0 +1,10 @@
+# ignore artifacts
+build
+coverage
+
+# ignore all html files
+**/*.html
+
+# ignore package.json and package-lock.json
+package.json
+package-lock.json
